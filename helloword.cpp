@@ -3,8 +3,7 @@
 using manespace std;
 
 int main(){
-	cout<<"hello world"<<endl;
-	//hello
-
+	for(int i=0;i<10 ;i++)
+		cout<<"hello world"<<endl;
 return 0;
 }
